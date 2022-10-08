@@ -6,8 +6,9 @@ Conduct correlation analysis of microorganisms and metabolism, microorganisms an
 ## Analysis
 ### Display of relative abundance of different species
 ```
-Rscript scripts/plot_abundance_test_bar.R abundance_species.xls group.list Lachnospiraceae_bacterium
+Rscript scripts/plot_abundance_test_bar.R abundance_species.tsv group.list Escherichia_coli
 ```
 abundance_species.xls #Table of relative abundance of species;
 group.list  #Sample grouping table；
-Lachnospiraceae_bacterium #Species to be displayed
+Escherichia_coli #Species to be displayed
+
