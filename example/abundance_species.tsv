@@ -1,0 +1,20 @@
+Tax Id	A1	A2	A3	A4	A5	S1	S2	S3	S4	S5
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_michiganensis	29.857870	27.662844	21.567864	14.673959	16.052964	0.000871	0.002832	0.000631	0.002743	0.033569
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli	13.168724	20.784461	13.559917	31.948822	26.353323	0.020432	0.027838	0.007049	0.055419	1.477942
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_pneumoniae	16.202258	10.924236	7.091929	9.839137	12.970590	0.018608	0.022306	0.043545	0.111388	0.249061
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_sp	0.001010	0.002292	0.002830	0.003965	0.003605	9.703931	12.327552	4.338498	8.008392	2.354889
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Ligilactobacillus|s__Ligilactobacillus_murinus	1.928330	2.233300	24.012070	0.905300	0.662777	0.006901	0.034084	0.017321	0.110838	0.005827
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_hominis	0.000106	0.000438	0.000358	0.000295	0.000081	3.817686	12.227798	6.941661	0.006843	0.006842
+k__Bacteria|p__unclassified|c__unclassified|o__unclassified|f__unclassified|g__unclassified|s__bacterium_1xD42-87	0.000191	0.001645	0.001835	0.004850	0.002333	1.167544	3.055968	15.399798	1.508421	0.781835
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_oxytoca	5.952276	5.464474	4.786633	3.034555	3.462421	0.007094	0.014723	0.029947	0.044041	0.027072
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Shigella|s__Shigella_sonnei	3.655730	4.504834	3.100139	5.524130	5.217363	0.004849	0.003923	0.002113	0.013093	0.282089
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Eubacteriales|f__Lachnospiraceae|g__unclassified|s__Lachnospiraceae_bacterium	0.000517	0.003647	0.005270	0.005744	0.002059	2.354243	3.245483	5.016768	6.353350	2.071898
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Sutterellaceae|g__Parasutterella|s__Parasutterella_excrementihominis	1.230530	1.466277	2.091127	4.355173	5.191582	0.473950	0.084586	0.034804	0.018045	0.625720
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_sp	3.051463	2.696631	2.540184	1.760435	2.079672	0.000020	0.000009	0.000023	0.000881	0.002802
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Eubacteriales|f__Oscillospiraceae|g__Oscillibacter|s__Oscillibacter_sp	0.000287	0.001352	0.002482	0.002929	0.000495	0.529043	1.023415	5.049305	2.242078	3.041972
+k__Viruses|p__Uroviricota|c__Caudoviricetes|o__Caudovirales|f__Siphoviridae|g__unclassified|s__Siphoviridae_sp	0.460825	0.189174	0.198918	0.288156	0.636655	1.854753	1.829655	1.515828	2.199138	1.429574
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotellamassilia|s__Prevotellamassilia_timonensis	0.000234	0.000115	0.000362	0.000107	0.000110	2.724390	4.469119	2.332665	0.417109	0.020755
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_copri	0.000070	0.000095	0.000217	0.000382	0.000036	1.598076	4.429503	2.383980	0.268286	0.144925
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Phocaeicola|s__Phocaeicola_faecalis	0.000136	0.000326	0.000197	0.000371	0.000221	0.463369	0.388487	0.092271	6.367113	1.680259
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Salmonella|s__Salmonella_enterica	2.032214	1.873435	1.547417	1.463779	1.538797	0.010610	0.005378	0.014802	0.006554	0.065875
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_sp	0.000107	0.000788	0.000517	0.001530	0.000163	2.159956	1.158680	0.469771	2.136746	2.874308
