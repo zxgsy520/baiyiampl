@@ -8,7 +8,5 @@ Conduct correlation analysis of microorganisms and metabolism, microorganisms an
 ```
 Rscript scripts/plot_abundance_test_bar.R abundance_species.tsv group.list Escherichia_coli
 ```
-abundance_species.xls #Table of relative abundance of species;
-group.list  #Sample grouping table；
-Escherichia_coli #Species to be displayed
+abundance_species.xls: Table of relative abundance of species; group.list: Sample grouping table； Escherichia_coli: Species to be displayed.
 
