@@ -10,6 +10,6 @@ Rscript scripts/plot_abundance_test_bar.R example/abundance_species.tsv example/
 ```
 abundance_species.xls: Table of relative abundance of species; group.list: Sample grouping table； Escherichia_coli: Species to be displayed.
 <p align="center">
-<img src="https://github.com/zxgsy520/bioyicgmlst/blob/main/example/cgMLST.mst.png" width=400px"> <br>
+<img src="https://github.com/zxgsy520/baiyiampl/blob/main/example/Escherichia_coli.abundance_test_bar.png" width=400px"> <br>
 </p>
 
